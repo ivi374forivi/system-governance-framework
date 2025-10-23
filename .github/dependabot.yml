@@ -8,10 +8,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -27,10 +23,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -46,10 +38,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -65,10 +53,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -84,10 +68,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -103,10 +83,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -122,10 +98,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -141,10 +113,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -160,10 +128,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -179,10 +143,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -198,10 +158,6 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 10
-    reviewers:
-      - "dependabot"
-    assignees:
-      - "dependabot"
     commit-message:
       prefix: "chore"
       include: "scope"

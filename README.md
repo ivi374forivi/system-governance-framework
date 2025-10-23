@@ -13,7 +13,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/4-b100m/system-governance-framework)](https://github.com/4-b100m/system-governance-framework/network)
 
 [![Codecov](https://codecov.io/gh/4-b100m/system-governance-framework/branch/main/graph/badge.svg)](https://codecov.io/gh/4-b100m/system-governance-framework)
-[![Maintainability](https://api.codeclimate.com/v1/badges/your-badge-id/maintainability)](https://codeclimate.com/github/4-b100m/system-governance-framework/maintainability)
 [![Security Score](https://api.securityscorecards.dev/projects/github.com/4-b100m/system-governance-framework/badge)](https://api.securityscorecards.dev/projects/github.com/4-b100m/system-governance-framework)
 
 A comprehensive system governance framework with advanced automation, security workflows, and compliance tools. This project serves as a reference implementation for modern DevSecOps practices and governance automation.

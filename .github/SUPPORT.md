@@ -46,8 +46,8 @@ If you discover a security vulnerability, please send an email to our security t
 ### 📧 Contact
 
 For urgent matters or private communication:
-- **Email**: [Add your email address]
-- **Security Email**: [Add security contact email]
+- **Email**: support@4-b100m.dev
+- **Security Email**: security@4-b100m.dev
 
 ## Frequently Asked Questions
 

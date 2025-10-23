@@ -24,7 +24,7 @@ Use GitHub's private vulnerability reporting feature:
 [Report a vulnerability](https://github.com/4-b100m/system-governance-framework/security/advisories/new)
 
 #### Email
-Send an email to: [Add security contact email]
+Send an email to: security@4-b100m.dev
 
 ### 📧 What to Include
 
@@ -85,9 +85,9 @@ The following are typically out of scope for security reports:
 
 ### 📞 Contact Information
 
-- **Security Email**: [Add security contact email]
-- **General Contact**: [Add general contact email]
-- **PGP Key**: [Add PGP key information if applicable]
+- **Security Email**: security@4-b100m.dev
+- **General Contact**: support@4-b100m.dev
+- **PGP Key**: Available upon request
 
 ### 🔄 Policy Updates
 
