@@ -40,20 +40,20 @@ jobs:
             recent activity. It will be closed if no further activity occurs within 7 days.
             Thank you for your contributions.
           close-pr-message: |
-            This pull request was automatically closed due to inactivity. If you believe this 
+            This pull request was automatically closed due to inactivity. If you believe this
             PR is still relevant, please reopen it or create a new PR with updated changes.
-          
+
           # Labels to ignore
           exempt-issue-labels: 'pinned,security,help-wanted,good-first-issue'
           exempt-pr-labels: 'pinned,work-in-progress,do-not-close'
           exempt-all-milestones: true
-          
+
           # Only close if no assignees
           exempt-all-assignees: true
-          
+
           # Comment processing
           remove-stale-when-updated: true
           delete-branch: true
-          
+
           # Limits
           operations-per-run: 100
