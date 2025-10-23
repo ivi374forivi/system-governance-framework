@@ -26,7 +26,7 @@ jobs:
           publish_results: true
 
       - name: Upload SARIF results to code-scanning
-        uses: github/codeql-action/upload-sarif@v3
+        uses: github/codeql-action/upload-sarif@v4
         with:
           sarif_file: results.sarif
 
@@ -57,7 +57,7 @@ jobs:
           echo "- [ ] Enable secret scanning" >> audit-report.md
           echo "- [ ] Enable push protection for secrets" >> audit-report.md
           echo "- [ ] Configure security policy (SECURITY.md)" >> audit-report.md
-          
+
       - name: Upload audit report
         uses: actions/upload-artifact@v4
         with:
