@@ -36,6 +36,7 @@ When working with workflows and automation:
 
 ### Pre-commit Hooks
 When modifying or adding pre-commit hooks:
+
 - Reference `.pre-commit-config.yaml` for existing hook configurations
 - Follow pre-commit.com documentation for hook syntax
 - Ensure all hooks are compatible with Python 3.11+
